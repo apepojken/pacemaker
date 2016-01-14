@@ -1,0 +1,2 @@
+# pacemaker-errors
+errors
